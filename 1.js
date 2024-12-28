@@ -1,1 +1,4 @@
-console.log(s);sss
+
+
+
+console.log("mamad");
